@@ -7,4 +7,4 @@ Exercício sobre a Fórmula 1 para treinar métodos em Java
 <br>
 <br>
 # Console:
-![image](https://github.com/guiKD/Metodos_Java/assets/125158583/4024b2b2-fd5f-4383-8942-12f0337396e6)
+![image](https://github.com/guiKD/Metodos_Java/assets/125158583/53946d3a-036e-4076-bf6d-f3a1e8d9a252)
