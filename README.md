@@ -1,5 +1,5 @@
 # Metodos_Java
-Exercício sobre a Fórmula 1 para treinar métodos em Java
+Exercício sobre a Fórmula 1 para praticar métodos em Java
 <br>
 <br>
 ![image](https://github.com/guiKD/Metodos_Java/assets/125158583/21bba328-1cb9-4ca6-9407-24ead0282f55)
