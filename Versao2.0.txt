@@ -1,0 +1,13 @@
+Versão 2.0:
+
+A versão 2.0 do código de movimentação do MoBô apresenta algumas melhorias e alterações em relação à versão anterior.
+* Agora, além de solicitar a potência da bateria, o código calcula o número de "vidas" do robô com base na potência 
+fornecida, considerando que cada 10 volts adicionais correspondem a uma vida. 
+Para calcular as vidas é feita pelo código: vidas = (potencia - 220) / 10 + 1; 
+ou seja, 330 de potência equivale a 12 vidas.
+* O código permite que o usuário adicione mais potência ao robô caso ele perca todas as vidas, reiniciando o percurso.
+Caso o movimento seja válido, uma mensagem é exibida indicando a direção e a quantidade de passos realizados.
+* Se o movimento for inválido, ou seja, não corresponder à direção e quantidade de passos esperados, uma mensagem de 
+colisão é exibida, e o robô perde uma vida.
+* Após cada colisão, o número de vidas restantes é exibido.
+* No final, o código informa se o robô completou ou não o percurso e encerra o programa.
