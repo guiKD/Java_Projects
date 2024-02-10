@@ -16,6 +16,7 @@
 # Ex F1 MÉTODOS
 
 ![image](https://github.com/guiKD/JAVA-projects/assets/125158583/089f254e-19fd-4d6f-b5b3-68841d82b4ba)
-![image](https://github.com/guiKD/JAVA-projects/assets/125158583/a15a0107-d73d-4123-a1ed-5d4d5629c829)
+![image](https://github.com/guiKD/JAVA-projects/assets/125158583/75442a81-64ae-4c75-8a57-6310195c70a8)
+
 
 
