@@ -1,5 +1,4 @@
-# Sprint 1
-
+# Pista robô
 ![image](https://github.com/guiKD/JAVA-projects/assets/125158583/9e1b6e30-f6e0-4ba2-8c00-6186b3ec3d5a)
 
 # Sprint 2
