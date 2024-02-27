@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author logonrmlocal
- *
- */
-module JavaCodAltaPer {
-}
