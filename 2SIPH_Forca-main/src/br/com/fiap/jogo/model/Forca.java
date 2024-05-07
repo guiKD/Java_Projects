@@ -1,14 +1,5 @@
 package br.com.fiap.jogo.model;
 
-/**
- * 
- * @author Eduardo Gondo 2SIPH
- * 
- * Classe responsável pela criação do Jogo da Forca.
- * Ela pega a palavra a ser descoberta da classe
- * Dicionario.
- *
- */
 public class Forca {
 	
 	private String palavra;
