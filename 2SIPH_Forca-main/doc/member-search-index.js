@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.com.fiap.jogo.model","c":"Forca","l":"enforcou()"},{"p":"br.com.fiap.jogo.model","c":"Forca","l":"Forca()","u":"%3Cinit%3E()"},{"p":"br.com.fiap.jogo.model","c":"Forca","l":"getErros()"}];updateSearchResults();
